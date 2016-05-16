@@ -1,0 +1,12 @@
+1. run ./vim_conf
+
+2. vim supertab.vmb
+   :so %
+
+#############################################
+Note: 
+    1. ctags must be installed first.
+    2. If the access of ~/.vim is denied, you
+       should run ./vim_conf as root.
+#############################################
+       
